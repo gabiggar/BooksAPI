@@ -1,0 +1,15 @@
+# Ignorar arquivos e pastas do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignorar binários e builds
+bin/
+obj/
+Debug/
+Release/
+
+# Ignorar cache do Visual Studio Code
+.vscode/
